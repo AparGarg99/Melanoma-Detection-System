@@ -26,7 +26,7 @@ Refer to:
 
 # INSTALLATION AND USER GUIDE 🔌
 
-Refer to [this](https://github.com/AparGarg99/Melanoma-Detection-System/blob/master/ProjectReport/User_Manual.pdf).
+Refer to [User Manual](https://github.com/AparGarg99/Melanoma-Detection-System/blob/master/ProjectReport/User_Manual.pdf).
 
 ---
 ***Don't forget to give a ⭐ if you like this project !!***
