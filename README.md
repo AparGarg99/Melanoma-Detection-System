@@ -7,7 +7,7 @@ Refer to:
 ---
 
 # VIDEO OF SYSTEM MODELLING & USE CASE DEMO 🎥
-
+![](https://github.com/AparGarg99/Melanoma-Detection-System/blob/master/Miscellaneous/GUI.png)
 * [Watch Video](https://youtu.be/F2eYhIod67w)
 * [Download Video](https://drive.google.com/file/d/1gjODAerD43rK0XKbktIMOsB-dzqhDRBY/view?usp=sharing)
 
