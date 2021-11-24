@@ -1,10 +1,8 @@
-# Melanoma-Detection-System
-
 # OVERVIEW 📚
 
 Refer to:
 * [PPT](https://github.com/AparGarg99/Melanoma-Detection-System/blob/master/PPT/Group10_final_presentation_slide.pptx)
-* [Report](https://github.com/AparGarg99/Melanoma-Detection-System/blob/master/ProjectReport/PRS%20Project%20Report.pdf).
+* [Report](https://github.com/AparGarg99/Melanoma-Detection-System/blob/master/ProjectReport/PRS%20Project%20Report.pdf)
 
 ---
 
