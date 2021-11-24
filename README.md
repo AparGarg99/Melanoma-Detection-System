@@ -5,6 +5,22 @@ Refer to:
 * [Report](https://github.com/AparGarg99/Melanoma-Detection-System/blob/master/ProjectReport/PRS%20Project%20Report.pdf)
 
 ---
+# GUI
+
+---
+
+# VIDEO OF SYSTEM MODELLING & USE CASE DEMO 🎥
+
+* [Watch Video](https://youtu.be/F2eYhIod67w)
+* [Download Video](https://drive.google.com/file/d/1gjODAerD43rK0XKbktIMOsB-dzqhDRBY/view?usp=sharing)
+
+---
+
+# INSTALLATION AND USER GUIDE 🔌
+
+Refer to [User Manual](https://github.com/AparGarg99/Melanoma-Detection-System/blob/master/ProjectReport/User_Manual.pdf).
+
+---
 
 # AUTHORS 👨‍💻
 
@@ -16,17 +32,4 @@ Refer to:
 
 ---
 
-# VIDEO OF SYSTEM MODELLING & USE CASE DEMO 🎥
-
-* [Watch Video](https://youtu.be/F2eYhIod67w)
-* [Download Video](https://drive.google.com/file/d/1gjODAerD43rK0XKbktIMOsB-dzqhDRBY/view?usp=sharing)
-
-
----
-
-# INSTALLATION AND USER GUIDE 🔌
-
-Refer to [User Manual](https://github.com/AparGarg99/Melanoma-Detection-System/blob/master/ProjectReport/User_Manual.pdf).
-
----
 ***Don't forget to give a ⭐ if you like this project !!***
