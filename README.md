@@ -11,7 +11,7 @@ Refer to:
 # AUTHORS 👨‍💻
 
 | Full Name | Email ID |
-| :---------------:| :-----| :-----|
+| :---------------:| :-----:|
 | Apar Garg    | apargarg99@gmail.com |
 | Gopan Ravikumar Girija  | rggopan123@gmail.com |
 | Sarah Elita Shi Yuan Wong | aceirus@hotmail.com |
