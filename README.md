@@ -5,9 +5,6 @@ Refer to:
 * [Report](https://github.com/AparGarg99/Melanoma-Detection-System/blob/master/ProjectReport/PRS%20Project%20Report.pdf)
 
 ---
-# GUI
-
----
 
 # VIDEO OF SYSTEM MODELLING & USE CASE DEMO 🎥
 
