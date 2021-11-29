@@ -1,6 +1,9 @@
 # OVERVIEW 📚
 This project aims to build an automated classification system based on deep learning techniques to predict the presence of melanoma skin cancer using skin lesions images.
 
+***Keywords:*** Computer-Aided Diagnosis (CAD), Teledermatology automated diagnosis system
+
+
 Refer to the following for more details:
 * [PPT](https://github.com/AparGarg99/Melanoma-Detection-System/blob/master/PPT/Group10_final_presentation_slide.pptx)
 * [Report](https://github.com/AparGarg99/Melanoma-Detection-System/blob/master/ProjectReport/PRS%20Project%20Report.pdf)
