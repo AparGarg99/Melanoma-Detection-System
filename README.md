@@ -19,7 +19,7 @@ Watch the [Video](https://youtu.be/F2eYhIod67w) for more details.
 
 # INSTALLATION AND USER GUIDE 🔌
 
-Refer to [User Manual](https://github.com/AparGarg99/Melanoma-Detection-System/blob/master/ProjectReport/User_Manual.pdf).
+Refer to the [User Manual](https://github.com/AparGarg99/Melanoma-Detection-System/blob/master/ProjectReport/User_Manual.pdf).
 
 ---
 
