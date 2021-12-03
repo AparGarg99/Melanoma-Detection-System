@@ -1,5 +1,5 @@
 # OVERVIEW 📚
-This project aims to build an automated classification system based on deep learning techniques to predict the presence of melanoma skin cancer using skin lesions images.
+This project aims to build an automated classification system based on deep learning techniques to predict the presence of melanoma skin cancer using skin lesion images.
 
 ***Keywords:*** *Computer-Aided Diagnosis (CAD), Teledermatology automated diagnosis system*
 
