@@ -10,7 +10,7 @@ Refer to the following for more details:
 
 ---
 
-# VIDEO OF SYSTEM MODELLING & USE CASE DEMO 🎥
+# SYSTEM DEMO 🎥
 ![](https://github.com/AparGarg99/Melanoma-Detection-System/blob/master/Miscellaneous/demo1.gif)
 
 Watch the [Video](https://youtu.be/F2eYhIod67w) for more details.
